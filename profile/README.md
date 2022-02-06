@@ -11,12 +11,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 <div align=center>
-<p><img height="140em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img height="140em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img height="140em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/></p>
+<p><img height="130em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img height="130em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img height="130em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/></p>
 </div>
 <div align=center>
-<p><img height="140em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img height="140em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img height="140em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/></p>
+<p><img height="130em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img height="130em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img height="130em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/></p>
 </div>
