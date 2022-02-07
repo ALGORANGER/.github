@@ -13,7 +13,7 @@
 <div align=center>
 <p><img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=chu1214"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/></p>
+<img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yeeeh"/></p>
 </div>
 <div align=center>
 <p><img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
